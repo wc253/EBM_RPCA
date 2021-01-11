@@ -1,7 +1,7 @@
 # EBM_RPCA
 Code of TSP2019 Nonconvex Robust Low-Rank Tensor Reconstruction via an Empirical Bayes Method <br>
 
-![pre_face](https://github.com/wc253/EBM_RPCA/main/pre.png)
+![pre_face](https://github.com/wc253/EBM_RPCA/pre.png)
 
 # Folder structure
 ```shell
